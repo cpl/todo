@@ -5,8 +5,8 @@
 TODO_STRING = "# TODO"
 FILE_EXTENSION = ".py"
 
-GIT_LINK = "https://github.com/{user}/{repo}/tree/master/{path}#{line_num}"
+GIT_LINK = "https://github.com/{}/{}/tree/master/{}#L{}"
 
-MD_TODO = "- [ ] {} | {} {}\n"
-MD_DONE = "- [x] {} | {} {}\n"
+MD_TODO = "- [ ] {} | {}\n"
+MD_DONE = "- [x] {} | {}\n"
 MD_LINK = "[{}]({})"
