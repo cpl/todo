@@ -1,0 +1,20 @@
+- [ ] Keep this doing nothing | 34 f211.py
+- [ ] There is an assumption that the result will be a | 146 controller.py
+- [ ] Add some logging here... | 44 filewrapper.py
+- [ ] other fields such as contacts | 1017 metadata.py
+- [ ] Add namespace support here | 245 serializer.py
+- [ ] Can we test whether something is contained within a requirement? | 84 requirements.py
+- [ ] Can we normalize the name and extra name? | 87 requirements.py
+- [ ] response is the only one | 19 hooks.py
+- [ ] Fix tunnel so it doesn't depend on self.sock state. | 160 connection.py
+- [ ] Add optional support for socket.gethostbyname checking. | 438 connectionpool.py
+- [ ] Stop inheriting from AssertionError in v2.0. | 197 exceptions.py
+- [ ] try to get these passing down from the command? | 196 basecommand.py
+- [ ] Why not use `comes_from='-r {} (line {})'` here as well? | 186 req_file.py
+- [ ] handle space after '\'. | 315 req_file.py
+- [ ] Get this into six.moves.urllib.parse | 6 bazaar.py
+- [ ] this goes somewhere besides the wheel module | 540 wheel.py
+- [ ] maybe move the install code into this class | 614 wheel.py
+- [ ] Can we test whether something is contained within a requirement? | 82 requirements.py
+- [ ] Can we normalize the name and extra name? | 85 requirements.py
+- [ ] is it necessary to short-circuit here? i.e. what's the cost | 53 install_lib.py
